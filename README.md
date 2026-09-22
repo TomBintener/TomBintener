@@ -14,7 +14,7 @@ Computer Scientist with a Master's from LMU Munich specializing in high-performa
 ### Core Tech Stack
 * **Languages:** Rust, Python, C++, Java, JavaScript, SQL
 * **DevOps & Cloud:** Kubernetes, Docker, Linux, CI/CD, Git, REST APIs
-* **Frameworks & Libraries:** PyTorch, FastAPI, Node.js, `egglog`, React
+* **Frameworks & Libraries:** PyTorch, FastAPI
 
 ---
 
